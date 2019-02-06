@@ -3,5 +3,4 @@ class Person
     @name=name
   end
   
-  def 
 end
